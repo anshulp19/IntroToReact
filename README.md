@@ -1,1 +1,1 @@
-# IntroToReact
+# UI for movie rating website
